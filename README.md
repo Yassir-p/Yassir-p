@@ -14,7 +14,6 @@
 - 📱 I develop cross-platform mobile apps with Flutter
 - 🛡️ Currently exploring Cybersecurity fundamentals and ethical hacking
 - 🛠️ Always learning, always building
-- 💬 Let’s connect and collaborate on tech projects!
 
 ---
 
@@ -40,7 +39,6 @@
 ---
 
 
----
 
 ## 📈 GitHub Stats:
 
