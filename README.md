@@ -54,3 +54,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yassirr404/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-yassir-al-hakim-0abba8355/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:myassiralhakim@gmail.com) 
+
+<img src="https://raw.githubusercontent.com/Yassir-p/Yassir-p/output/snake.svg" alt="Snake animation" />
+
+###
