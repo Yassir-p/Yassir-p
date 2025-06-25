@@ -24,11 +24,12 @@
 </div>
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,kali,linux,docker,react,git,js,dart,figma,flutter,laravel,redhat,tailwind,mysql,vite,postman,php" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,kali,linux,docker,react,git" /><br>
+  <img src="https://skillicons.dev/icons?i=js,dart,figma,flutter,laravel,redhat" /><br>
+  <img src="https://skillicons.dev/icons?i=tailwind,mysql,vite,postman,php" />
+</div>
+
 ---
 
 
