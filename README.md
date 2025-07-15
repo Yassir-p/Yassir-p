@@ -26,7 +26,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,kali,linux,docker,react,git" /><br>
-  <img src="https://skillicons.dev/icons?i=js,dart,figma,flutter,laravel,redhat,wordpress" /><br>
+  <img src="https://skillicons.dev/icons?i=js,dart,figma,flutter,laravel,wordpress" /><br>
   <img src="https://skillicons.dev/icons?i=tailwind,mysql,vite,postman,php" />
 </div>
 
