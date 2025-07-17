@@ -11,7 +11,7 @@
 ## 🚀 About Me:
 
 - 🌐 I build web apps using technologies like JavaScript, PHP, Laravel, TailwindCSS & React.
-- 📱 I develop cross-platform mobile apps with Flutter.
+- 📱 I develop cross platform mobile apps with Flutter.
 - 🛡️ Currently exploring Cybersecurity fundamentals and ethical hacking.
 - 🛠️ Always learning, always building.
 
