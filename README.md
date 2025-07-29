@@ -3,15 +3,14 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=535&lines=Web+Developer+%7C+Mobile+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=535&lines=Web+Developer;" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me:
 
-- 🌐 I build web apps using technologies like JavaScript, PHP, Laravel, TailwindCSS & React.
-- 📱 I develop cross platform mobile apps with Flutter.
+- 🌐 I build web apps using technologies like JavaScript, PHP, Laravel, TailwindCSS, React & NextJS
 - 🛡️ Currently exploring DevOps, Cybersecurity fundamentals and ethical hacking.
 - 🛠️ Always learning, always building.
 
@@ -26,7 +25,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,linux,docker,react,git" /><br>
-  <img src="https://skillicons.dev/icons?i=js,dart,figma,flutter,laravel,wordpress" /><br>
+  <img src="https://skillicons.dev/icons?i=js,supabase,figma,nextjs,laravel,wordpress" /><br>
   <img src="https://skillicons.dev/icons?i=tailwind,mysql,vite,postman,php" />
 </div>
 
