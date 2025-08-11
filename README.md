@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Muhammad Yassir Al Hakim 👨‍💻</h1>
+<h1 align="center">👋 Hey, I'm Muhammad Yassir Al Hakim</h1>
 
 ---
 
