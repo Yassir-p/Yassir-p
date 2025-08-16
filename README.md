@@ -10,7 +10,7 @@
 
 ## 🚀 About Me:
 
-- 🌐 I build web apps using technologies like JavaScript, PHP, Laravel, TailwindCSS, React & NextJS
+- 🌐 I build web apps using technologies like JavaScript, PHP, Laravel, TailwindCSS, React & NextJS.
 - 🛡️ Currently exploring DevOps, Cybersecurity fundamentals and ethical hacking.
 - 🛠️ Always learning, always building.
 
