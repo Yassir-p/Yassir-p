@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/djvelimir/djvelimir/main/images/developer-activity-animate.svg" width="500" height="500">
 </p>
 
-<h1 align="center">👋 Hi, I'm Muhammad Yassir Al Hakim</h1>
+<h1 align="center">👋 Hey, I'm Muhammad Yassir Al Hakim</h1>
 
 ---
 
